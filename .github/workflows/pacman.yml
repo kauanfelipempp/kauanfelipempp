@@ -12,8 +12,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - name: Pacman Contribution Graph Action
-        # MUDANÇA AQUI!
-        uses: pacman-dots/pacman-contribution-graph@v2 
+        uses: pacman-dots/pacman-contribution-graph@v2 # CORREÇÃO
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           output_path: output/pacman-contribution-graph

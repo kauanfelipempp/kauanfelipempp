@@ -12,9 +12,8 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - name: Pacman Contribution Graph Action
-        uses: jasoryu/pacman-contribution-graph@v3
+        # MUDANÇA AQUI!
+        uses: pacman-dots/pacman-contribution-graph@v2 
         with:
-          # Seu token de acesso pessoal é necessário para ler suas contribuições privadas
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          # O caminho onde a Action deve salvar o gráfico SVG
           output_path: output/pacman-contribution-graph

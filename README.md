@@ -67,6 +67,11 @@
 
 ###
 ###
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kauanfelipempp/kauanfelipempp/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kauanfelipempp/kauanfelipempp/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/kauanfelipempp/kauanfelipempp/output/pacman-contribution-graph.svg">
+</picture>
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=kauanfelipempp.kauanfelipempp&left_color=darkred&right_color=darkslategray&left_text=Visitantes"  />

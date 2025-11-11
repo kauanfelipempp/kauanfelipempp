@@ -20,3 +20,10 @@ jobs:
             output/github-contribution-grid-snake-dark.svg?palette=github-dark
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          
+      # ⬇️ NOVO PASSO ADICIONADO PARA COMMITAR O ARQUIVO SVG ⬇️
+      - name: Commit files
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "feat: Atualiza gráfico Snake Game"
+          file_pattern: output/*.svg

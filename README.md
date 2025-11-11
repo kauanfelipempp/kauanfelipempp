@@ -65,11 +65,10 @@
 
 ###
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kauanfelipempp/kauanfelipempp/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kauanfelipempp/kauanfelipempp/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/kauanfelipempp/kauanfelipempp/output/github-contribution-grid-snake.svg">
-  </picture>
+<div align="left">
+  <img src="https://github.com/kauanfelipempp/kauanfelipempp/blob/output/github-snake-dark.svg" alt="">
   </div>
+  
+  <div align='center'>
 <img src="https://visitor-badge.laobi.icu/badge?page_id=kauanfelipempp.kauanfelipempp&left_color=darkred&right_color=darkslategray&left_text=Visitors"  />
+  </div>

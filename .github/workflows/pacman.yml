@@ -1,0 +1,20 @@
+name: Update Pacman Graph
+
+on:
+  schedule:
+    # Roda a cada 1 hora
+    - cron: '0 * * * *'
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Pacman Contribution Graph Action
+        uses: jasoryu/pacman-contribution-graph@v3
+        with:
+          # Seu token de acesso pessoal é necessário para ler suas contribuições privadas
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          # O caminho onde a Action deve salvar o gráfico SVG
+          output_path: output/pacman-contribution-graph

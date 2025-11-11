@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">Tenho 18 anos e estou trilhando o caminho para me tornar um Engenheiro de Software. Sou do Rio de Janeiro e dedico meu tempo aos estudos na faculdade e ao aprimoramento das minhas habilidades de programação. Meu objetivo é transformar ideias complexas em código limpo e funcional.</h4>
+<h4 align="left">I am 18 years old and on the path to becoming a Software Engineer. I'm from Rio de Janeiro, dedicating my time to college studies and improving my programming skills. My goal is to transform complex ideas into clean and functional code.</h4>
 <img align="right" height="150" src="https://i.imgur.com/zYHmBXF.png"  />
 
 ###
@@ -70,4 +70,4 @@
     <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/kauanfelipempp/kauanfelipempp/output/github-contribution-grid-snake.svg">
   </picture>
   </div>
-<img src="https://visitor-badge.laobi.icu/badge?page_id=kauanfelipempp.kauanfelipempp&left_color=darkred&right_color=darkslategray&left_text=Visitantes"  />
+<img src="https://visitor-badge.laobi.icu/badge?page_id=kauanfelipempp.kauanfelipempp&left_color=darkred&right_color=darkslategray&left_text=Visitors"  />

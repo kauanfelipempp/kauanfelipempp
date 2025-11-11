@@ -71,4 +71,3 @@
   </picture>
   </div>
 <img src="https://visitor-badge.laobi.icu/badge?page_id=kauanfelipempp.kauanfelipempp&left_color=darkred&right_color=darkslategray&left_text=Visitantes"  />
-###
